@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm A.Vamsi Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🔭 I'm currently working on **Full stack Development**
+
+- 🌱 I’m currently learning **Desgning with various tools like bootstrap and figma**
 
 - 💬 Ask me about **web development, python and SQL**
 

@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aradhyula vamsi kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aradhyula vamsi kiran" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aradhyula-vamsi-kiran-016a9229a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aradhyula vamsi kiran" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_unique__01.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_unique__01.6" height="30" width="40" /></a>
 </p>
 
